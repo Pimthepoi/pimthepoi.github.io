@@ -5,6 +5,8 @@ incremental: false
 highlighter: rouge
 theme: jekyll-theme-midnight
 markdown: kramdown
+github:
+  is_project_page: false
 gist:
   noscript: false
 kramdown:

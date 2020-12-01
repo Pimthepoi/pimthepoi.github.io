@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /.git/
+Sitemap: https://pimthepoi.github.io/sitemap.xml

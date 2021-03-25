@@ -147,18 +147,7 @@ SMB1 disabled -- no workgroup available
 ```
 
 **profiles$** can be read without user:
-![[Pasted image 20210324185617.png]]
-
-### Enum4Linux
-
-```bash
-enum4linux-ng.py 10.10.10.192
-```
-![[Pasted image 20210324182254.png]]
-
-![[Pasted image 20210324182328.png]]
-
-We get the domain name, not much else.
+It contains folders named after people.
 
 # Initial Foothold
 ## kerbrute
